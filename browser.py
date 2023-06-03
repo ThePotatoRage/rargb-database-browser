@@ -78,7 +78,7 @@ while True:
             }
             list_of_dicts.append(row_dict)
 
-    # Create a table from the results and print it.
+    # Create a table from the results and print it
     table = tabulate(list_of_dicts, headers='keys')
     print("\nHere are your search results:\n")
     print(table)
