@@ -4,7 +4,7 @@ I wrote RARBG-Database-Browser to enable myself and everyone who wishes to easil
 
 ## How to use:
 1. Install Python from python.org
-2. Clone this project (the only file you need is main.py).
+2. Clone this project (the only file you need is browser.py).
 3. Paste in the sqlite database in the same directory with the main.py file.
 4. Run main.py.
 
